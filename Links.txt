@@ -1,0 +1,16 @@
+Useful Links:
+
+https://www.kaggle.com/ankurchavda/coffee-beans-reviews-by-coffee-quality-institute
+http://www.scaa.org/?page=resources&d=cupping-protocols&mod=article_inline
+https://github.com/jldbc/coffee-quality-database
+https://github.com/jalal1/arabica
+https://github.com/kahartman2/coffee_classification/blob/master/README.md
+https://corgi.re/courses/Davidlimbong/UnsupervisedLearning
+https://rdrr.io/github/Rkabacoff/qacData/src/R/coffee.R 
+http://www.coffeeresearch.org/coffee/scaaclass.htm#:~:text=No%20quakers%20are%20permitted.,full%20defects%20in%20300%20grams.
+https://static1.squarespace.com/static/584f6bbef5e23149e5522201/t/5d936fa1e29d4d5342049d74/1569943487417/Coffee+Standards-compressed.pdf
+https://database.coffeeinstitute.org/coffees/arabica
+https://sca.coffee/research/protocols-best-practices#:~:text=Grading%20Principles,grams%20of%20green%20coffee%20sample.&text=The%20SCA%20GACCS%20only%20defines,Specialty%20Grade%20and%20Premium%20Grade.
+https://club.atlascoffeeclub.com/specialty-grade-coffee/
+https://skymountaincoffee.com/what-is-specialty-grade-coffee/#:~:text=Types%20of%20Defects,sticks%20or%20stones%2C%20water%20damage.
+
